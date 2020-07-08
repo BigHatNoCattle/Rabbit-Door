@@ -1,0 +1,7 @@
+development:
+  password: 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
+  # custom "Rabbit Door Dev" theme
+  theme_id: "104244183203"
+  # original "express" theme
+  # theme_id: "102889062563"
+  store: the-rabbit-door.myshopify.com
